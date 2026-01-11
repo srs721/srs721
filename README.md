@@ -3,7 +3,7 @@ Hi, I’m **Srishti !**
 
 **Software Data Engineer** building **cloud-native data platforms** and **production-grade pipelines**.
 
-I work across **Python, Node.js, SQL**, and cloud services to deliver **reliable analytics systems** and **ML-ready data foundations**.  
+I work across **Python, Node.js, SQL**, and cloud services to deliver **reliable analytics systems**.  
 I enjoy designing **scalable architectures**, improving **pipeline reliability**, and automating operational workflows.
 
 ---
